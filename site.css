@@ -26,11 +26,12 @@ aside {
   }
 
 header .logo {
-  height:175px;
-  background:url(assets/logo.png) no-repeat 50% 50%;
+  height:300px;
+  background:url(assets/cconf.png) no-repeat 50% 50%;
   display:block;
   overflow:hidden;
   text-indent:-9999px;
+  float: left;
   }
 
 #main,
