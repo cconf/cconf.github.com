@@ -19,3 +19,13 @@ Some conference ideas:
 - A Hack Day that lasts three days (hey, C development takes time)
 
 [ccan]: http://ccodearchive.net/index.html
+
+UPDATE: Woah, this hit [Hacker News][hn] and Twitter before I expected. I
+started contacting people today to start organizing this and created the site
+to have a point of discussion. If you want to discuss ideas, sponsorship or
+venue stuff [email me directly][brandonmail] or post to the [Google
+Group][groupmail]. -Brandon
+
+[hn]: http://news.ycombinator.com/item?id=3718414
+[brandonmail]: mailto:brandon.cconf@ifup.org
+[groupmail]: mailto:cconf@googlegroups.com
