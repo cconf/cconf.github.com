@@ -8,7 +8,7 @@ conference and starting to search for a location and funding.
 
 Some conference ideas:
 
-- C compiler implementors panel (clang, gcc, icc)
+- C compiler implementers panel (clang, gcc, icc)
 - libc implementors panel (glibc, uclibc, bionic libc)
 - Hardening code with compilers and tools
 - Exploiting modern C code bases
