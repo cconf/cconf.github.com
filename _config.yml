@@ -3,7 +3,7 @@ server: true
 exclude: README.md, .gitignore
 permalink: none
 baseurl: 
-url: http://cconf.github.com
+url: http://cconf.org
 hashtag: '@thecconf'
 github_login: 'cconf'
 github_repo: 'cconf.github.com'
