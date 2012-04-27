@@ -27,7 +27,7 @@ aside {
 
 header .logo {
   height:300px;
-  background:url(assets/cconf.png) no-repeat 50% 50%;
+  background:url(/assets/cconf.png) no-repeat 50% 50%;
   display:block;
   overflow:hidden;
   text-indent:-9999px;
@@ -205,6 +205,11 @@ a.tweet {
   }
 
 .clearfix { display: inline-block; }
+
+ul {
+  list-style-type: square;
+  padding-left: 15px;
+}
 
 /* Hides from IE-mac \*/
 * html .clearfix { height: 1%; }
