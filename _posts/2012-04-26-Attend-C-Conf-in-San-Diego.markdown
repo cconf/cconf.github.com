@@ -3,14 +3,14 @@ layout: default
 title: Attend! C Conf is in San Diego, CA August 28th, 2012
 ---
 
-**tl;dr** C Conf is real; [Register Now!][register]
+**tl;dr** C Conf is real; Registration coming soon ($225 early bird)
 
 - **Who**: You and a 150 other compiler wranglers and bit fiddlers
 - **What**: A conference about using the C programming language
 - **When**: August 28th, 2012
 - **Where**: San Diego, CA; co-located with [LinuxCon][linuxcon]/[CloudOpen][cloudopen]/[LPC][lpc]
 - **Why**: Because C is used by everyone
-- **How**: [Register Now][register]; submit ideas via the [Reverse CFP][pfc]
+- **How**: Registration coming soon; submit ideas via the [Reverse CFP][pfc]
 
 [linuxcon]: https://events.linuxfoundation.org/events/linuxcon
 [cloudopen]: https://events.linuxfoundation.org/events/cloudopen/
@@ -52,7 +52,7 @@ coming into the C ecosystem constantly but discovery can be hard. I want
 C Conf to help. And to that end all of the talks will be recorded and
 made available freely after the conference.
 
-[Register Now!][register]
+Registration coming soon
 
 Want to sponsor? <a href="mailto:contact@cconf.org">Contact me.</a>
 
