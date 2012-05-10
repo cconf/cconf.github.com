@@ -4,7 +4,7 @@ title: Attend! C Conf is in San Diego, CA August 28th, 2012
 rss: /blog.rss
 ---
 
-**tl;dr** C Conf is real
+**tl;dr** C Conf is real; [Register Now!][register]
 
 - **Who**: You and a 150 other compiler wranglers and bit fiddlers
 - **What**: A conference about using the C programming language
@@ -53,7 +53,7 @@ coming into the C ecosystem constantly but discovery can be hard. I want
 C Conf to help. And to that end all of the talks will be recorded and
 made available freely after the conference.
 
-[Please join us at C Conf!][register]
+[Register Now!][register]
 
 Want to sponsor? <a href="mailto:contact@cconf.org">Contact me.</a>
 
