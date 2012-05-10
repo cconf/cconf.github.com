@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Attend! C Conf is in San Diego, CA August 28th, 2012
+rss: /blog.rss
 ---
 
 **tl;dr** C Conf is real
