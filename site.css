@@ -134,6 +134,11 @@ a.tweet {
   width:205px;
   }
 
+.social {
+  text-align:center;
+  }
+
+
 .buttons a {
   text-align:center;
   font-size:15px;
