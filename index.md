@@ -13,6 +13,13 @@ rss: /blog.rss
 What would you like to see? What talks do you want to give? Help define C Conf,
 participate in the [reverse CFP][pfc]
 
+## [Travel & Hotel][travel]
+
+Discounted room rates at the [Sheraton Hotel & Marina][travel] in San Diego,
+California. And travel details for getting there.
+
+[travel]: /travel.html
+
 ## The Essential Details
 
 - **What**: A conference about using the C programming language
