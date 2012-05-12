@@ -18,11 +18,11 @@ a {
   margin:0px auto;
   }
 
-aside {
+#aside {
   position:relative;
   float:right;
   width:210px;
-  margin-top:175px;
+  margin-top:300px;
   }
 
 header .logo {
@@ -36,6 +36,8 @@ header .logo {
 
 #main,
 header .logo {
+  position: relative;
+  float: left;
   width:530px;
   }
 
