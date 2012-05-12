@@ -23,7 +23,7 @@ California. And travel details for getting there.
 ## The Essential Details
 
 - **What**: A conference about using the C programming language
-- **Where**: San Diego, CA; co-located with [LinuxCon][linuxcon]/[CloudOpen][cloudopen]/[LPC][lpc]
+- **Where**: [San Diego, CA][travel]; co-located with [LinuxCon][linuxcon]/[CloudOpen][cloudopen]/[LPC][lpc]
 - **When**: August 28th, 2012
 - **Why**: Because C is used by everyone to solve interesting problems
 
@@ -32,6 +32,18 @@ California. And travel details for getting there.
 [lpc]: http://linuxplumbersconf.org
 [register]: http://www.regonline.com/Register/Checkin.aspx?EventID=1096261
 [pfc]: /pfc/
+
+## Keep up to date
+
+Get the latest updates. Join the [cconf-announce mailing list][cconf-announce].
+Follow [@thecconf][twitter] on Twitter. Watch on [github]. Or add the C
+Conference on [Google+][googlep] or [Facebook][facebook].
+
+[cconf-announce]: https://groups.google.com/forum/#!forum/cconf-announce
+[github]: https://github.com/cconf/cconf.github.com
+[twitter]: https://twitter.com/thecconf
+[googlep]: https://plus.google.com/111666632522404882293/posts
+[facebook]: http://www.facebook.com/thecconf
 
 ## Blog Posts
 
