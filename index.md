@@ -45,6 +45,11 @@ Conference on [Google+][googlep] or [Facebook][facebook].
 [googlep]: https://plus.google.com/111666632522404882293/posts
 [facebook]: http://www.facebook.com/thecconf
 
+
+## Sponsors
+
+Want to sponsor?  <a href="mailto:contact@cconf.org">Contact me.</a>
+
 ## Blog Posts
 
 {% for item in site.posts limit:5 %}
