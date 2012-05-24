@@ -13,7 +13,8 @@ $520 ($20 more than LinuxCon alone)!
 ## [Program][pfc]
 
 What would you like to see? What talks do you want to give? Help define C Conf,
-participate in the [reverse CFP][pfc]
+participate in the [reverse CFP][pfc]. There will be a single track and talks
+will be fast (around 20 minutes), it will be a blast.
 
 ## [Travel & Hotel][travel]
 
