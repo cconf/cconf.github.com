@@ -6,7 +6,9 @@ rss: /blog.rss
 
 ## [Tickets][register]
 
-[Buy early bird tickets][register] through the end of May $225
+[Buy early bird tickets][register] through the end of May $225. Optionally you
+can attend both C Conf and [LinuxCon][linuxcon] or [CloudOpen][cloudopen] for
+$520 ($20 more than LinuxCon alone)!
 
 ## [Program][pfc]
 
