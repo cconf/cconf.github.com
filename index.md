@@ -4,17 +4,17 @@ title: The C Conference
 rss: /blog.rss
 ---
 
-## [Tickets][register]
-
-[Buy early bird tickets][register] through the end of May $225. Optionally you
-can attend both C Conf and [LinuxCon][linuxcon] or [CloudOpen][cloudopen] for
-$520 ($20 more than LinuxCon alone)!
-
 ## [Program][pfc]
 
 What would you like to see? What talks do you want to give? Help define C Conf,
 participate in the [reverse CFP][pfc]. There will be a single track and talks
-will be fast (around 20 minutes), it will be a blast.
+will be fast (around 20 minutes), it will be a blast. **Closes June 7th.**
+
+## [Tickets][register]
+
+[Buy early bird tickets][register] through June 20th $225. Optionally you
+can attend both C Conf and [LinuxCon][linuxcon] or [CloudOpen][cloudopen] for
+$520 ($20 more than LinuxCon alone)!
 
 ## [Travel & Hotel][travel]
 
