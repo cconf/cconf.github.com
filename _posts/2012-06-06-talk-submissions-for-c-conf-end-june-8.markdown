@@ -1,8 +1,10 @@
 ---
-title: "Talk Submissions for C Conf End June 8th!"
+title: "(update) Talk Submissions for C Conf End June 13th!"
 topics: [C, cconf.org, cfp]
 layout: post
 ---
+
+**Update**: Deadline is now the end of June 13th (Wednesday)
 
 "*Everyone uses C to implement interesting things.*" This is the core
 idea that drove me to start working on [The C Conference][cconf]. From
@@ -27,7 +29,7 @@ but [JSConf][jsconf] is an anchor within the Javascript community for
 sharing the breadth of Javascript knowledge.
 
 So, lets give it a go. The C Conference is accepting proposals and talk
-ideas through the end of Friday (June 8th) on [the reverse CFP][pfc].
+ideas through the end of Wednesday June 13th on [the reverse CFP][pfc].
 
 It has been a lot of work and fun to reach into communities and projects
 to get the talk ideas and proposals that have been posted so far. But,
