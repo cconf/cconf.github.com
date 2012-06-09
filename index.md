@@ -8,7 +8,8 @@ rss: /blog.rss
 
 What would you like to see? What talks do you want to give? Help define C Conf,
 participate in the [reverse CFP][pfc]. There will be a single track and talks
-will be fast (around 20 minutes), it will be a blast. **Closes June 8th.**
+will be fast (around 20 minutes), it will be a blast. **Closes end of day on
+June 13th.**
 
 ## [Tickets][register]
 
