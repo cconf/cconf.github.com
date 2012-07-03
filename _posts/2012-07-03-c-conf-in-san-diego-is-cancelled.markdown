@@ -1,10 +1,8 @@
 ---
-layout: index
-title: The C Conference
-rss: /blog.rss
+title: C Conf in San Diego on August 28th 2012 is cancelled
+topics: [C, cconf.org, cfp]
+layout: post
 ---
-
-## C Conf in San Diego on August 28th 2012 is cancelled
 
 Thank you for your support of C Conf. The community support was crucial
 in motivating the work to get C Conf 2012 in San Diego as far as it did.
@@ -29,8 +27,3 @@ mailing][announce] list for more details.
 
 Thanks again.
 
-## Blog Posts
-
-{% for item in site.posts limit:5 %}
-{% include frontpage_blog.html %}
-{% endfor %}
